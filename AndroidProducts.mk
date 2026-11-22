@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Sprint_2_16.mk
+    $(LOCAL_DIR)/twrp_Sprint_2_16.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Sprint_2_16-user \
-    omni_Sprint_2_16-userdebug \
-    omni_Sprint_2_16-eng
+    twrp_Sprint_2_16-user \
+    twrp_Sprint_2_16-userdebug \
+    twrp_Sprint_2_16-eng

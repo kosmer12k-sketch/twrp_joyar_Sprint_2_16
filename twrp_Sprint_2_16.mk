@@ -15,7 +15,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/joyar/Sprint_2_16/device.mk)
 
 PRODUCT_DEVICE := Sprint_2_16
-PRODUCT_NAME := omni_Sprint_2_16
+PRODUCT_NAME := twrp_Sprint_2_16
 PRODUCT_BRAND := Pixus
 PRODUCT_MODEL := Pixus_Sprint_2_16
 PRODUCT_MANUFACTURER := joyar
