@@ -9,13 +9,13 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit some common Omni stuff.
-$(call inherit-product, vendor/twrp/config/common.mk)
+$(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from Sprint_2_16 device
 $(call inherit-product, device/joyar/Sprint_2_16/device.mk)
 
 PRODUCT_DEVICE := Sprint_2_16
-PRODUCT_NAME := twrp_Sprint_2_16
+PRODUCT_NAME := omni_Sprint_2_16
 PRODUCT_BRAND := Pixus
 PRODUCT_MODEL := Pixus_Sprint_2_16
 PRODUCT_MANUFACTURER := joyar

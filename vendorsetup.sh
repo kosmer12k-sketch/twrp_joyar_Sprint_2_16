@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_Sprint_2_16-user
-add_lunch_combo twrp_Sprint_2_16-userdebug
-add_lunch_combo twrp_Sprint_2_16-eng
+add_lunch_combo omni_Sprint_2_16-user
+add_lunch_combo omni_Sprint_2_16-userdebug
+add_lunch_combo omni_Sprint_2_16-eng
